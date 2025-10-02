@@ -1,0 +1,4 @@
+.gitattributes export-ignore
+.gitmodules export-ignore
+
+composer.lock -merge
